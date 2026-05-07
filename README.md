@@ -1,0 +1,1 @@
+# web_dailynote_development2
